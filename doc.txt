@@ -1,0 +1,33 @@
+Step -1
+
+Ey source control button a click korbi.
+
+Jodi ey project ta github a na thake tahole erokom ashbe,
+Ekhon tur kaj holo just publish to github button a click kora. Simple. 
+
+Eta hocche tui first a github a upload korli project tah.
+
+Chol kore dei.
+And than jekono 1ta button click korlei kaj sesh, Ekhon kon button a click korbi?
+
+Jodi tur ey project ta sobai k dekhat (Great)
+
+Step 2.
+
+ekhon dekh, Amra kintu doc file ta pore create korsi, oi jonno tui ki ki change korsos/kon kon file change korsos oi gulur sob list dekhte pabi, github a upload korar pore.
+Like tui jodi ekhn onno 1ta file a 1ta space o des, oi file tau ey list a pabi, 
+
+chol change kori. dekh just 1ta space dibo, Orthat tui jei jei files a change korbi sob gulur list ekhane dekhte pabi, 
+
+Ekhon egulu to tur pc te ase, ey changes gulu, but github a to nai, 
+
+Oitar jonno toke simple 1ta msg pathate hobe github k.
+
+Chol kori,
+
+Upore dekh 1ta msg box ase, oi jaygay jekono 1ta msg dibi, (Tobe tui jei kaj ta korsos oita dilei better)
+
+like, 
+
+And then just oi Commit button ta te click kore dibi, 
+kaj sesh.
