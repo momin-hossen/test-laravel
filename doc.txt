@@ -37,3 +37,10 @@ Then abar oi sync button ta te click kore dilei eta github a chole jabe.
 _________________________________________
 Ekhon abar dekh, amra doc.txt file a change korsi dekhe, ey file ta ey list a chole ashche, 
 Ekhon jodi eyta github a upload korte chash same process.
+
+Clear?
+ho vai
+
+abar dekh, ekhn jodi tui ey list er file a click koros, tahole ey file a ki ki change korsos oitau dekhte parbi.
+
+chol dekhi.
