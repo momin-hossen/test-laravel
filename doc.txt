@@ -31,3 +31,9 @@ like,
 
 And then just oi Commit button ta te click kore dibi, 
 kaj sesh.
+Then abar oi sync button ta te click kore dilei eta github a chole jabe.
+
+
+_________________________________________
+Ekhon abar dekh, amra doc.txt file a change korsi dekhe, ey file ta ey list a chole ashche, 
+Ekhon jodi eyta github a upload korte chash same process.
